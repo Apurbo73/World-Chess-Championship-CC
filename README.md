@@ -129,4 +129,3 @@ int main() {
 
 * This code reads match results, calculates points for each player, and prints how much prize money **Carlsen** gets, based on whether he wins, loses, or ties.
 
-Let me know if you'd like a [visual flowchart](f) or [step-by-step walkthrough with a sample input](f)!
