@@ -1,6 +1,5 @@
 ﻿# World Chess Championship CC
 
-Absolutely! Here's a **simple explanation** of your C++ code, line by line, in plain language:
 
 ---
 
