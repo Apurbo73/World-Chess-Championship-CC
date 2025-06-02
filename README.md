@@ -1,4 +1,4 @@
-﻿# World Chess Championship CC
+### World Chess Championship CC:
 
 
 ---
