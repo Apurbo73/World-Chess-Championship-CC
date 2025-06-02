@@ -129,3 +129,6 @@ int main() {
 
 * This code reads match results, calculates points for each player, and prints how much prize money **Carlsen** gets, based on whether he wins, loses, or ties.
 
+This C++ program calculates the prize money Carlsen wins based on 14 chess game results for each test case. It reads a number X (used for prize calculation) and a string of game results (C, N, D). Carlsen gets 2 points for each C, Chef gets 2 for each N, and both get 1 point for each D. The program keeps track of both players' scores using two counters.
+
+At the end of each test case, it compares their total points. If Carlsen has more, he gets 60 * X; if Chef has more, Carlsen gets 40 * X. If the points are equal, Carlsen still wins (as defending champion) but receives 55 * X. This output is printed for each test case.
